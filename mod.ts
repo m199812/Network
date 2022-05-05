@@ -53,4 +53,5 @@ startBot({
   ],
   // These are all your event handler functions. Imported from the events folder
   eventHandlers: botCache.eventHandlers,
+  +heroku goVersion go1.15
 });
