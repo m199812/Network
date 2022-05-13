@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "https://github.com/m19981/Network.git",
+            "request": "launch",
+            "url": "https://github.com/m19981/Network.git"
+        }
+    ]
+}
