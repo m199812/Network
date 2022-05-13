@@ -6,6 +6,8 @@ import { CustomEvents } from "./src/types/events.ts";
 import { Helpers } from "./src/types/helpers.ts";
 import { Monitor } from "./src/types/monitors.ts";
 import { Task } from "./src/types/tasks.ts";
+import * as discordeno from "https://deno.land/x/discordeno@13.0.0-rc35/mod.ts";
+
 
 export const botCache = {
   fullyReady: false,
