@@ -2,6 +2,7 @@ import { configs } from "./configs.ts";
 import { botCache, Intents, startBot } from "./deps.ts";
 import { fileLoader, importDirectory } from "./src/utils/helpers.ts";
 import { loadLanguages } from "./src/utils/i18next.ts";
+import * as discordeno from "https://deno.land/x/discordeno@13.0.0-rc35/mod.ts";
 
 console.info("Beginning Bot Startup Process. This can take a little bit depending on your system. Loading now...");
 
