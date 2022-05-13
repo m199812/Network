@@ -19,7 +19,7 @@
   "homepage": "https://github.com/m19981/Network#readme",
   "dependencies": {
     "discordeno": "^13.0.0-rc35",
-    "ts-node": "^10.7.0",
+    "ts-node": "^13.0.0",
     "tslib": "^2.4.0",
     "typescript": "^4.6.4"
   }
