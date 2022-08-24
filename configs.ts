@@ -1,6 +1,6 @@
 export const configs = {
     // Your bot  goes here
-    : "OTcwMzM3MjM3NDAzMzIwNDYy.GSiw8s.NYnYg8zr_rhDKsr-reWLqgTPG1PwYaWtieAGc8",
+    : "OTcwMzM3MjM3NDAzMzIwNDYy.GLUU-3.QNeuOQ4gCHdU5K0A8eJLhFNAlLkHu0CVRusLv0",
     // The default prefix for your bot. Don't worry guilds can change this later.
     prefix: "!",
     // This isn't required but you can add bot list api keys here.
